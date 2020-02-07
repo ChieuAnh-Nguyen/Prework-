@@ -2,7 +2,7 @@
 ## NAME_OF_YOUR_APP_HERE
 Prework4th
 ### App Description
-`TODO://` Click "change text color" to change label "Hello" to orange!
+Click "change text color" to change label "Hello" to orange!
 
 ### App Walk-though
 
