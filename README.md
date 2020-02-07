@@ -6,7 +6,7 @@ Click "change text color" to change label "Hello" to orange!
 
 ### App Walk-though
 
-<img src= "https://i.imgur.com/T0S1Y0s.gifv" width=200><br>
+<img src= "https://i.imgur.com/T0S1Y0s.gifv" width=300><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
